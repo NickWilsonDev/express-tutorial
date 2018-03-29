@@ -1,0 +1,26 @@
+{
+  "name": "expresstutorial",
+  "version": "1.0.0",
+  "description": "Simple web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickWilsonDev/express-tutorial.git"
+  },
+  "keywords": [
+    "Node",
+    "express"
+  ],
+  "author": "Nick Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickWilsonDev/express-tutorial/issues"
+  },
+  "homepage": "https://github.com/NickWilsonDev/express-tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
